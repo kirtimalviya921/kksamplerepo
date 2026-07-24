@@ -10,7 +10,7 @@ public class WelcomeServletTest {
         // Placeholder sanity test so 'mvn test' has something to run
         // and the pipeline demonstrates a passing test stage.
         String expected = "GoodMrng";
-        String actual = "GoodMrng..";
+        String actual = "GoodMrng";
         assertEquals(expected, actual);
     }
 }
