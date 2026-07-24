@@ -9,8 +9,8 @@ public class WelcomeServletTest {
     public void testAppBuildsSuccessfully() {
         // Placeholder sanity test so 'mvn test' has something to run
         // and the pipeline demonstrates a passing test stage.
-        String expected = "Hello";
-        String actual = "Hello";
+        String expected = "Good Mrng";
+        String actual = "Good Mrng..";
         assertEquals(expected, actual);
     }
 }
